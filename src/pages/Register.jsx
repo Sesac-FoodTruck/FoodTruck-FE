@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Carousel from '../components/Carousel';
 
 export default function Register() {
   return (
     <div>
-      Register
     </div>
-  )
+  );
 }
+
